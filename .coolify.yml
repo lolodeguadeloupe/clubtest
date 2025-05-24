@@ -11,4 +11,9 @@ services:
     ports:
       - "80:80"
     environment:
-      - NODE_ENV=production 
+      - NODE_ENV=production
+    
+# Force Docker build instead of auto-detection
+build:
+  type: docker
+  dockerfile: Dockerfile 
