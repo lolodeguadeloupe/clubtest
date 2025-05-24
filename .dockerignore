@@ -11,4 +11,5 @@ build
 .DS_Store
 .vscode
 *.log
-.cache 
+.cache
+deno.json 
