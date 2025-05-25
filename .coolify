@@ -1,1 +1,4 @@
-dockerfile 
+dockerfile
+build_method=docker
+dockerfile_path=Dockerfile
+context=. 
