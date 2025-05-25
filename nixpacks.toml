@@ -1,8 +1,0 @@
-[providers]
-docker = true
-
-[build]
-cmd = "docker"
-
-[variables]
-NODE_ENV = "production" 
