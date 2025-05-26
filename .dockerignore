@@ -12,4 +12,4 @@ build
 .vscode
 *.log
 .cache
-deno.json.bak 
+deno.json 
